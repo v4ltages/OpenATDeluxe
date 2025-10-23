@@ -6,7 +6,7 @@
 This is the repository of the Open Source remake of Airline Tycoon Deluxe.
 It will add support for Full HD resolution, and native support for platforms like Windows (10), Linux and OSx.
 
-The migration to Godot 4.4, was mostly done via AI tools as it would of been way too tedious to do by hand.
+This is the continuation of the project from the previous developer with a migration to Godot 4.4, was mostly done via AI tools as it would of been way too tedious to do by hand.
 
 ## Contributing
 
